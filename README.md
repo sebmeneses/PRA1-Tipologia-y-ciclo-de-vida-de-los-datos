@@ -1,6 +1,6 @@
 #Nombres de los integrantes del grupo:
-#### - Jeisson David Chavarro Torres
-#### - Sebastian Meneses Oliveros 
+#### -Jeisson David Chavarro Torres
+#### -Sebastian Meneses Oliveros 
 
 #El repositorio contiene los siguientes ficheros: 
 - Dataset
